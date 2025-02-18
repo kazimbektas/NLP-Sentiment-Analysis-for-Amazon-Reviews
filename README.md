@@ -1,7 +1,7 @@
 # NLP-Sentiment-Analysis-for-Amazon-Reviews
 
 <p align="center">
-    <img src="https://images.search.yahoo.com/images/view;_ylt=Awriid552rNni.EZsQqJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2U3NjE5OGIwYjVjZjFhYTIyMjgyZmVjZWNmMDE3MmFlBGdwb3MDOQRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Damazon%2Bsentiment%2Banalysis%26type%3DE210US91166G91640%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D9&w=1920&h=1080&imgurl=thecleverprogrammer.com%2Fwp-content%2Fuploads%2F2021%2F07%2FAmazon-Product-Reviews-Sentiment-Analysis.png&rurl=https%3A%2F%2Fthecleverprogrammer.com%2F2021%2F07%2F20%2Famazon-product-reviews-sentiment-analysis-with-python%2F&size=296KB&p=amazon+sentiment+analysis&oid=e76198b0b5cf1aa22282fececf0172ae&fr2=piv-web&fr=mcafee&tt=Amazon+Product+Reviews+Sentiment+Analysis+with+Python&b=0&ni=21&no=9&ts=&tab=organic&sigr=Fu99aSCRzUgd&sigb=l_DyeNQVJcIA&sigi=k5u8gxKD9Mvd&sigt=EIqCIiEgOlRD&.crumb=4pjN26sK/LD&fr=mcafee&fr2=piv-web&type=E210US91166G91640" alt="MasterHead"/>
+    <img src="https://thecleverprogrammer.com/wp-content/uploads/2021/07/Amazon-Product-Reviews-Sentiment-Analysis.png" alt="MasterHead"/>
 </p>
 
 
